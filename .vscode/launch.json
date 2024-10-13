@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-QuestoesVestibularApiApplication<questoes-vestibular-api>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.questoesvestibular.questoes_vestibular_api.QuestoesVestibularApiApplication",
+            "projectName": "questoes-vestibular-api",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
